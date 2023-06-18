@@ -1,0 +1,7 @@
+E:\reactjs\jiranew.cybersoft.edu.vn-master\ApiBase.Api\obj\Release\net5.0\ApiBase.Api.csproj.AssemblyReference.cache
+E:\reactjs\jiranew.cybersoft.edu.vn-master\ApiBase.Api\obj\Release\net5.0\ApiBase.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\reactjs\jiranew.cybersoft.edu.vn-master\ApiBase.Api\obj\Release\net5.0\ApiBase.Api.AssemblyInfoInputs.cache
+E:\reactjs\jiranew.cybersoft.edu.vn-master\ApiBase.Api\obj\Release\net5.0\ApiBase.Api.AssemblyInfo.cs
+E:\reactjs\jiranew.cybersoft.edu.vn-master\ApiBase.Api\obj\Release\net5.0\ApiBase.Api.csproj.CoreCompileInputs.cache
+E:\reactjs\jiranew.cybersoft.edu.vn-master\ApiBase.Api\obj\Release\net5.0\ApiBase.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\reactjs\jiranew.cybersoft.edu.vn-master\ApiBase.Api\obj\Release\net5.0\ApiBase.Api.MvcApplicationPartsAssemblyInfo.cache
