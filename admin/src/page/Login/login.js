@@ -1,21 +1,20 @@
 
 import React from 'react'
-import { Button, Input } from 'antd';
+
 
 import {withFormik,Formik} from 'formik'
 import * as Yup from 'yup';
 import {connect} from 'react-redux';
-import { USER_SIGNIN_API } from '../../redux/constants/User/User';
+
 import { singinAction } from '../../redux/actions/UserAction';
 function login(props) {
 
   
   const {
-    values,
-    touched,
+  
     errors,
     handleChange,
-    handleBlur,
+   
     handleSubmit,
   } = props;
   return (
